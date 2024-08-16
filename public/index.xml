@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SkiCon New England</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on SkiCon New England</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code Of Conduct</title>
+      <link>http://localhost:1313/coc/</link>
+      <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/coc/</guid>
+      <description>In case of a life-threatening emergency, please call 9-1-1 immediately.&#xA;Who is our Code of Conduct for? Ski Con aims to be a conference for everyone; that means we run a zero-tolerance policy on harassment against anyone, for any reason. We expect all event attendees, speakers, sponsors, partners, vendors, facilities staff, committee and board members to agree to and follow code of conduct guidelines. Should you have questions, concerns or doubts about whether an action would be in violation of the CoC, please contact organizers at skiconne [at] gmail [dot] com.</description>
+    </item>
+    <item>
+      <title>Test Page</title>
+      <link>http://localhost:1313/test/</link>
+      <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/</guid>
+      <description>Main Level Second level the various level (3rd) even the 4th </description>
+    </item>
+  </channel>
+</rss>

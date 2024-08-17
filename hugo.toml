@@ -3,23 +3,3 @@ languageCode = 'en-us'
 title = 'SkiCon New England'
 theme = "hello-friend-ng"
 
-[[menu.main]]
-    identifier 	= "Talks"
-    name       	= "Talks"
-    url        	= "/talks/"
-    weight		= 10
-[[menu.main]]
-    identifier = "FAQ"
-    name       = "FAQ"
-    url        = "/faq/"
-    weight		= 20
-[[menu.main]]
-    identifier = "Code_Conduct"
-    name       = "Code Of Conduct"
-    url        = "/coc/"
-    weight		= 30
-[[menu.main]]
-    identifier = "Twitter"
-    name       = "Twitter"
-    url        = "https://x.com/SkiConNE"
-    weight		= 40

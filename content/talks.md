@@ -1,9 +1,11 @@
-+++
-title = "Talks"
-description = ""
-type = ["posts","post"]
-date = "2024-08-16"
-+++
+---
+title: "Talks"
+menu: 
+  main:
+    parent: "Conference"
+    name: "Talks"
+    weight: 2
+---
 
 # TBD
 

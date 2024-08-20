@@ -1,9 +1,8 @@
-+++
-title = "FAQ"
-description = ""
-type = ["posts","post"]
-date = "2024-08-16"
-+++
+---
+title: "FAQ"
+menu: "main"
+weight: 30
+---
 
 ## What is SkiCon?
 

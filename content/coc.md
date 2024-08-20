@@ -1,9 +1,8 @@
-+++
-title = "Code Of Conduct"
-description = ""
-type = ["posts","post"]
-date = "2024-08-16"
-+++
+---
+title: "Code Of Conduct"
+menu: "main"
+weight: 20
+---
 
 *In case of a life-threatening emergency, please call 9-1-1 immediately.*
 
@@ -68,10 +67,10 @@ Unacceptable behavior is offensive in nature – it disturbs, upsets or threaten
 
 The following substance-related conduct is also prohibited:
 
-    Excessive or irresponsible consumption of alcohol;
-    Possession, sale, or use of marijuana, any marijuana derivative, or any other illicit or controlled substance other than under the prescription and supervision of a licensed physician (Ski Con prohibits the use of marijuana and derivative products at its events, even when validly prescribed by a licensed state authority. Ski Con may require documentary proof of other prescriptions.) ;
-    Providing or participating in the service of alcohol to anyone under the legal drinking age, in accordance with applicable laws and regulations; and
-    Smoking, except in designated areas.
+- Excessive or irresponsible consumption of alcohol;
+- Possession, sale, or use of marijuana, any marijuana derivative, or any other illicit or controlled substance other than under the prescription and supervision of a licensed physician (Ski Con prohibits the use of marijuana and derivative products at its events, even when validly prescribed by a licensed state authority. Ski Con may require documentary proof of other prescriptions.) ;
+- Providing or participating in the service of alcohol to anyone under the legal drinking age, in accordance with applicable laws and regulations; and
+Smoking, except in designated areas.
 
  
 
@@ -99,19 +98,19 @@ If you are disrespected, or witness this happening to someone else, engage polit
 
 Option 2: Report it to us via any of the following ways:
 
-    Inform a member of our event staff who can be identified by their badge.
-    Email us at skiconne [at] gmail [dot] com
-    Complete our event feedback form (this can be done anonymously), which will be sent out to all attendees after the event concludes.
+- Inform a member of our event staff who can be identified by their badge.
+- Email us at skiconne [at] gmail [dot] com
+- Complete our event feedback form (this can be done anonymously), which will be sent out to all attendees after the event concludes.
 
  
 
 When reporting, please provide as much detail as possible, preferably:
 
-    Your name and contact details (email, cell/mobile phone and address).
-    The time it occurred.
-    The place it occurred.
-    The names and contact details of any witnesses.
-    The outcome you are expecting (e.g. letter of apology, steps taken to prevent a similar instance from occurring etc.)
+- Your name and contact details (email, cell/mobile phone and address).
+- The time it occurred.
+- The place it occurred.
+- The names and contact details of any witnesses.
+- The outcome you are expecting (e.g. letter of apology, steps taken to prevent a similar instance from occurring etc.)
 
  
 
@@ -126,9 +125,9 @@ We don’t have a time limit for reporting unacceptable behavior, although we en
 
 We are committed to ensuring that you experience a positive, enjoyable and inclusive event. We strive for customer service excellence when reporting unacceptable behavior. That’s why, for the duration of our event, we will have a number of reporting mechanisms available (e.g. suitable informed event staff, event feedback forms etc.). When you report unacceptable behavior to us, we will respond promptly and with care, consideration and respect. Our process does not replace nor remove the formal mechanisms available to you as an individual to report inappropriate or offensive behavior such as making a police report. Our process is as follows:
 
-    We will acknowledge your report and reply via email (if an email was sent) as soon as is practical.
-    We will perform a thorough investigation starting immediately. We will not comment on your experience or perception of it. We will keep it wholly professional and confidential. We will treat all of the people involved fairly and objectively, irrespective of what our relationship with them is.
-    We will apply the appropriate sanctions / remediation e.g. warnings, direction to learning resources on the topic of harassment, bullying or anti-social behavior, temporary or permanent suspensions, and if necessary, report them to the police. We will take into consideration your wishes in any enforcement.
-    We will suggest measures we can take to ensure incidents of this nature do not recur at future events.
-    We reserve the right to remove people from the event or prevent people from joining the event.
-    We will not name and shame individuals, but we will analyze our progress with regards to unacceptable behavior and publish our findings annually on our website.
+We will acknowledge your report and reply via email (if an email was sent) as soon as is practical.
+- We will perform a thorough investigation starting immediately. We will not comment on your experience or perception of it. We will keep it wholly professional and confidential. We will treat all of the people involved fairly and objectively, irrespective of what our relationship with them is.
+- We will apply the appropriate sanctions / remediation e.g. warnings, direction to learning resources on the topic of harassment, bullying or anti-social behavior, temporary or permanent suspensions, and if necessary, report them to the police. We will take into consideration your wishes in any enforcement.
+- We will suggest measures we can take to ensure incidents of this nature do not recur at future events.
+- We reserve the right to remove people from the event or prevent people from joining the event.
+- We will not name and shame individuals, but we will analyze our progress with regards to unacceptable behavior and publish our findings annually on our website.

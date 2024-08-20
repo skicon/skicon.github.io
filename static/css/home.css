@@ -1,0 +1,11 @@
+.main-header {
+    display: flex;
+    justify-content: flex-start; /* Aligns the title to the start (top) */
+    align-items: flex-start; /* Moves the title to the top */
+    min-height: auto; /* Prevents excessive height */
+    padding-top: 20px; /* Adjust as needed */
+}
+
+.main-header .container {
+    text-align: left; /* Aligns text to the left */
+}

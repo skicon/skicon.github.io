@@ -1,23 +1,18 @@
-<nav class="menu">
-    <ul class="menu__inner">
-        {{- $currentPage := . -}}
-        {{ range .Site.Menus.main -}}
-            <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
-        {{- end }}
+<link rel="stylesheet" href="{{ "css/menu.css" | absURL }}">
 
-        {{- if .Site.Params.EnableGlobalLanguageMenu }}
-        <div class="submenu">
-            <li class="dropdown">
-                <a href="javascript:void(0)" class="dropbtn">{{ .Language }}</a>
-                <div class="dropdown-content">
-                    {{ if .Site.IsMultiLingual }}
-                        {{ range $.Translations }}
-                            <a title="{{ .Language }}" href="{{ .Permalink }}">{{ .Language }}</a>
+<nav class="main-menu">
+    <ul>
+        {{ range .Site.Menus.main }}
+            <li{{ if .HasChildren }} class="dropdown"{{ end }}>
+                <a href="{{ .URL }}">{{ .Name }}</a>
+                {{ if .HasChildren }}
+                    <ul class="submenu">
+                        {{ range .Children }}
+                            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
                         {{ end }}
-                    {{ end }}
-                </div>
+                    </ul>
+                {{ end }}
             </li>
-        </div>
-        {{- end }}
+        {{ end }}
     </ul>
 </nav>

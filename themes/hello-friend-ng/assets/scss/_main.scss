@@ -338,9 +338,9 @@ ol ol {
   display: flex;
   flex-direction: column;
   flex: 1 auto;
-  align-items: center;
-  justify-content: center;
-  margin: 0;
+  align-items: top;
+  justify-content: left;
+  margin: 50;
 
   @media #{$media-size-phone} {
     margin-top: 0;

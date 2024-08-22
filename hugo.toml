@@ -1,6 +1,6 @@
 baseURL = 'https://skicon.github.io/'
 languageCode = 'en-us'
-title = 'SkiCon New England'
+title = 'SkiConNE'
 theme = "hello-friend-ng"
 
 
@@ -11,10 +11,3 @@ theme = "hello-friend-ng"
     identifier = "Conference"
     name       = "Conference"
     weight     = 10
-
-[[menu.main]]
-    identifier = "Twitter"
-    name       = "Twitter"
-    url        = "https://x.com/SkiConNE"
-    weight     = 40
-

@@ -10,7 +10,7 @@ menu:
 ## Organizers
 
 
-{{< speaker img="/people/oshea-bowens.jpg" name="O'Shea Bowens" title="SkiCon Founder and Orginizer" twitter="" linkedin="https://www.linkedin.com/in/o-shea-bowens-52344915/" github="" >}} 
+{{< speaker img="/people/oshea-bowens.jpg" name="O'Shea Bowens" title="SkiCon Founder and Orginizer" twitter="https://x.com/SirMuDbl00d" linkedin="https://www.linkedin.com/in/o-shea-bowens-52344915/" github="" >}} 
 My interests in life vary but for the sake of this audience, I'm a passionate nerd. I fell in love with the hacking and cyber security world 14 years ago and this is where I apply my focus.
 
 As a curiously optomisitc problem solver I believe in taking nontraditional approaches to fix the problems of tomorrow. Once fixed, create a process then rinse and repeat. 

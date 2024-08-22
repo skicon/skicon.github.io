@@ -6,7 +6,8 @@ weight: 30
 
 ## What is SkiCon?
 
-SkiCon is where aprés ski and infosec meet!  We aim to join the outdoors and winter sports with cybersecurity research. We differ from most security conferences and hacker gatherings we want you to be outside, active, healthy, and feel the sunshine on your skin.
+SkiCon is where après ski and infosec meet!  
+We aim to join the outdoors and winter sports with cybersecurity research. We differ from most security conferences and hacker gatherings we want you to be outside, active, healthy, and feel the sunshine on your skin.
 
 ## When Is SkiCon
 
@@ -18,4 +19,4 @@ We are working to secure SKICON 2025 location, however we do know it will take p
 
 ## How do I join the slack channel?
 
-Send a DM on twitter to @skiconne or email us. DM's work better.
+Send a DM on twitter to [@skiconne](https://x.com/SNOWcon_2025) or [email us](mailto:skiconne@gmail.com). DM's work better.

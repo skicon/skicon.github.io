@@ -1,0 +1,34 @@
+<div>
+  <!-- If you change the color of the border, if will be visible. Right now it's the same color as the background so we don't see it -->
+<style>
+table, th, td {
+  border: 1px solid #232425 !important; 
+  border-collapse: collapse !important;
+}
+</style>
+<table>
+  <tr>
+    <td VALIGN=TOP rowspan="3" width="170"><img src="{{ .Get "img"}}" width="150"> </td>
+    <td width="600" height="30"><b>{{ .Get "name"}}</b>, <i>{{ .Get "title"}}</td>
+  </tr>
+  <tr> 
+    <td VALIGN=TOP>{{ .Inner | markdownify }}</td>      
+  </tr>  
+  <tr> 
+    <td>  
+      {{ if .Params.twitter }}
+        <a href={{ .Get "twitter" }} target="_blank"><img src="/img/twitter.png" alt="Twitter Profil" style="display:inline-block;width:24px;height:24px;"></a> 
+      {{ end }} 
+
+      {{ if .Params.linkedin }}
+        <a href={{ .Get "linkedin" }} target="_blank"><img src="/img/linkedin.png" alt="LinkedIn Profil" style="display:inline-block;width:24px;height:24px;"></a> 
+      {{ end }} 
+
+      {{ if .Params.github }}
+        <a href={{ .Get "github" }} target="_blank"><img src="/img/github.png" alt="GitHub Profil" style="display:inline-block;width:24px;height:24px;"></a> 
+      {{ end }} 
+</td>
+  </tr>  
+</table> 
+
+</div>

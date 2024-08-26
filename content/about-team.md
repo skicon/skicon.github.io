@@ -35,6 +35,6 @@ Better known as "Scoubi" in the community, Mat is a security enthusiast and Core
 {{< /speaker >}}
 
 
-{{< speaker img="/people/jason-odoom.jpg" name="Jason Odoom" title="Volunteer" twitter="" linkedin="https://www.linkedin.com/in/jasonodoom/" github="" >}} 
+{{< speaker img="/people/jason-odoom.jpg" name="Jason Odoom" title="Volunteer" twitter="https://x.com/TESTDELETETHIS" linkedin="https://www.linkedin.com/in/jasonodoom/" github="" >}} 
 
 {{< /speaker >}}

@@ -10,12 +10,9 @@ menu:
 ## Organizers
 
 {{< speaker img="/people/oshea-bowens.jpg" name="O'Shea Bowens" title="SkiCon Founder and Orginizer" twitter="<https://x.com/SirMuDbl00d>" linkedin="<https://www.linkedin.com/in/o-shea-bowens-52344915/>" github="" >}}
-My interests in life vary but for the sake of this audience, I'm a passionate nerd. I fell in love with the hacking and cyber security world 14 years ago and this is where I apply my focus.
-
-As a curiously optomisitc problem solver I believe in taking nontraditional approaches to fix the problems of tomorrow. Once fixed, create a process then rinse and repeat.
-
-I've shared my passion at the goverment, nonprofit, startup and Fortune 100 level. I'm on a constant mission of growth pertaining to security management programs in the areas of incident response, threat hunting, cloud security, security analytics, security architecture and malware analysis.
-
+I'm a passionate nerd. I fell in love with the hacking and cyber security world 14 years ago and this is where I apply my focus.  
+As a curiously optomisitc problem solver I believe in taking nontraditional approaches to fix the problems of tomorrow. Once fixed, create a process then rinse and repeat.  
+I've shared my passion at the goverment, nonprofit, startup and Fortune 100 level. I'm on a constant mission of growth pertaining to security management programs in the areas of incident response, threat hunting, cloud security, security analytics, security architecture and malware analysis.  
 I strongly believe that the future of #infosec is what we each contribute which is why I mentor and volunteer my time to empower others. Currently helping startups 10x with wicked security programs, speaking about security from conference stages and learning about artificial intelligence. Happy Hunting.
 {{< /speaker >}}
 
@@ -26,8 +23,7 @@ Better known as "Scoubi" in the community, Mat is a security enthusiast and Core
 ## Volunteers
 
 {{< speaker img="/people/tish-harper.jpg" name="Tish Harper" title="Volunteer" twitter="<https://x.com/LilMzMuffinCup>" linkedin="<https://www.linkedin.com/in/metisha-harper-88912b62/>" github="<https://github.com/cyb3rtish>" >}} 
-Tish Harper is a Security Engineer whose journey from the friendly skies to the complex world of cybersecurity is nothing short of inspiring. She originally embarked on a career as a flight attendant, soaring through the skies and ensuring passengers' safety and comfort at 35,000 feet. However, the winds of change blew in a different direction. She found herself captivated by the world of technology and cybersecurity despite having no prior tech background. 
-
+Tish Harper is a Security Engineer whose journey from the friendly skies to the complex world of cybersecurity is nothing short of inspiring. She originally embarked on a career as a flight attendant, soaring through the skies and ensuring passengers' safety and comfort at 35,000 feet. However, the winds of change blew in a different direction. She found herself captivated by the world of technology and cybersecurity despite having no prior tech background.  
 Through sheer grit and determination, she broke down the barriers that often deter non-traditional entrants into the tech industry. Tish is a passionate advocate for diversity and inclusion in the tech world, fervently believing that anyone with drive and dedication can carve out a successful career, no matter their background.
 {{< /speaker >}}
 

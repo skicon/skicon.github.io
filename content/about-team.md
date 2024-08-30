@@ -27,6 +27,6 @@ Tish Harper is a Security Engineer whose journey from the friendly skies to the 
 Through sheer grit and determination, she broke down the barriers that often deter non-traditional entrants into the tech industry. Tish is a passionate advocate for diversity and inclusion in the tech world, fervently believing that anyone with drive and dedication can carve out a successful career, no matter their background.
 {{< /speaker >}}
 
-{{< speaker img="/people/jason-odoom.jpg" name="Jason Odoom" title="Volunteer" twitter="<https://x.com/TESTDELETETHIS>" linkedin="<https://www.linkedin.com/in/jasonodoom/>" github="" >}}
-
+{{< speaker img="/people/jason-odoom.jpg" name="Jason Odoom" title="Volunteer" twitter="<https://x.com/JasonOdoom>" github="<https://github.com/jasonodoom>" >}} 
+Jason Odoom is a cybersecurity enthusiast who's dedicated to cloud security, application security and AI/ML. He has a solid technical foundation, loves *nix and enjoys blending innovation with practicality. Whether he's digging into cloud environments or testing out the latest AI-driven tools, he is driven by curiosity and a commitment to keeping the digital world safe. He is currently exporing ways to marry his love of information security and AI/ML to further innovate.
 {{< /speaker >}}

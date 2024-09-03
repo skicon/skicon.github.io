@@ -16,7 +16,7 @@ I've shared my passion at the goverment, nonprofit, startup and Fortune 100 leve
 I strongly believe that the future of #infosec is what we each contribute which is why I mentor and volunteer my time to empower others. Currently helping startups 10x with wicked security programs, speaking about security from conference stages and learning about artificial intelligence. Happy Hunting.
 {{< /speaker >}}
 
-{{< speaker img="/people/mathieu-saulnier.png" name="Mathieu Saulnier" title="SkiCon Co-Orginizer" twitter="https://x.com/ScoubiMtl" linkedin="https://www.linkedin.com/in/mathieusaulnier/" github="http://github.com/scoubi" >}}
+{{< speaker img="/people/mathieu-saulnier.png" name="Mathieu Saulnier" title="SkiCon Co-Orginizer" twitter="https://x.com/ScoubiMtl" bluesky="https://bsky.app/profile/scoubi.bsky.social" mastodon="https://infosec.exchange/@scoubi"  linkedin="https://www.linkedin.com/in/mathieusaulnier/" github="http://github.com/scoubi" website="https://snowcon.info" >}}
 Better known as "Scoubi" in the community, Mat is a security enthusiast and Core Mentor for Defcon’s Blue Team Village. He leads world class teams and focuses on research, hunting & detecting adversaries. With 2 decades now in the security space, he’s had the opportunity to work for amazing organizations and make an impact in cyber defense. He shared his passion at Derbycon, SANS Summits and RSAC, amongst others.
 {{< /speaker >}}
 

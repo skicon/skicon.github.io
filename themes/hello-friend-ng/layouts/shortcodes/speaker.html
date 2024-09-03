@@ -2,14 +2,14 @@
   <!-- If you change the color of the border, if will be visible. Right now it's the same color as the background so we don't see it -->
 <style>
 table, th, td {
-  border: 1px solid #232425 !important; 
+  border: 1px solid #232425 !important; /* #232425 = Background color */
   border-collapse: collapse !important;
 }
 </style>
 <table>
   <tr>
     <td VALIGN=TOP rowspan="3" width="170"><img src="{{ .Get "img"}}" width="150"> </td>
-    <td width="600" height="30"><b>{{ .Get "name"}}</b>, <i>{{ .Get "title"}}</td>
+    <td width="600" height="2"><b>{{ .Get "name"}}, </b><i>{{ .Get "title"}}</i></td>
   </tr>
   <tr> 
     <td VALIGN=TOP>{{ .Inner | markdownify }}</td>      
@@ -20,12 +20,24 @@ table, th, td {
         <a href={{ .Get "twitter" }} target="_blank"><img src="/img/twitter.png" alt="Twitter Profil" style="display:inline-block;width:24px;height:24px;"></a> 
       {{ end }} 
 
+      {{ if .Params.mastodon }}
+        <a href={{ .Get "mastodon" }} target="_blank"><img src="/img/mastodon.png" alt="Twitter Profil" style="display:inline-block;width:24px;height:24px;"></a> 
+      {{ end }} 
+
+      {{ if .Params.bluesky }}
+        <a href={{ .Get "bluesky" }} target="_blank"><img src="/img/bluesky.png" alt="Twitter Profil" style="display:inline-block;width:24px;height:24px;"></a> 
+      {{ end }} 
+
       {{ if .Params.linkedin }}
         <a href={{ .Get "linkedin" }} target="_blank"><img src="/img/linkedin.png" alt="LinkedIn Profil" style="display:inline-block;width:24px;height:24px;"></a> 
       {{ end }} 
 
       {{ if .Params.github }}
         <a href={{ .Get "github" }} target="_blank"><img src="/img/github.png" alt="GitHub Profil" style="display:inline-block;width:24px;height:24px;"></a> 
+      {{ end }} 
+
+      {{ if .Params.website }}
+        <a href={{ .Get "website" }} target="_blank"><img src="/img/website.png" alt="Twitter Profil" style="display:inline-block;width:24px;height:24px;"></a> 
       {{ end }} 
 </td>
   </tr>  

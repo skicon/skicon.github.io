@@ -4,7 +4,7 @@ menu:
   main:
     parent: "Conference"
     name: "CFP"
-    weight: 2
+    weight: 20
 ---
 
 # TBD

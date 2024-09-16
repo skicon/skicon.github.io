@@ -1,6 +1,6 @@
 baseURL = 'https://skicon.github.io/'
 languageCode = 'en-us'
-title = 'SkiConNE'
+title = 'SkiCon'
 theme = "hello-friend-ng"
 
 

@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="{{ "css/menu.css" | absURL }}">
 
-<nav class="main-menu">
+<nav class="main-menu">  
     <ul>
         {{ range .Site.Menus.main }}
             <li{{ if .HasChildren }} class="dropdown"{{ end }}>

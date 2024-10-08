@@ -1,5 +1,5 @@
 ---
 title: "Conference"
-menu: "none"
+menu: "main"
 weight: 10
 ---

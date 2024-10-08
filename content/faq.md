@@ -11,11 +11,16 @@ We aim to join the outdoors and winter sports with cybersecurity research. We di
 
 ## When Is SkiCon
 
-TBD
+February 21 to 23 2025
 
-## Where do I go skiing?
+## Where do I go skiing/riding?
 
-We are working to secure SKICON 2025 location, however we do know it will take place in the New England area. 
+[Wachusett Mountain](https://www.wachusett.com/) is our ski resort this year.
+
+## Where do I sleep and attend talks?
+
+All talks will be held at [Colonial Hotel](https://www.colonial-hotel.com/), this is also where we have a room block.
+
 
 ## How do I join the slack channel?
 

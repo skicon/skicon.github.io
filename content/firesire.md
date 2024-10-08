@@ -1,10 +1,10 @@
 ---
-title: "Talks"
+title: "Fireside Chats"
 menu: 
   main:
     parent: "Conference"
-    name: "Talks"
-    weight: 20
+    name: "Fireside Chats"
+    weight: 10
 ---
 
 # TBD

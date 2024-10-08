@@ -1,2 +1,2 @@
-# SkiCon New England
-# 2025
+# Skicon 
+# February 21st to 23rd 2025

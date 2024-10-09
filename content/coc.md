@@ -15,7 +15,7 @@ Ski Con aims to be a conference for everyone; that means we run a zero-tolerance
 
 ### Publication
 
-The Code of Conduct is available online at https://www.skiconne.org/code-of-conduct . Printed versions of the Code of Conduct will be made available at all official Ski Con events and activities, and links to the Code of Conduct will be supplied on all official Ski Con community forums and chat rooms.
+The Code of Conduct is available online at https://www.skicon.org/code-of-conduct . Printed versions of the Code of Conduct will be made available at all official Ski Con events and activities, and links to the Code of Conduct will be supplied on all official Ski Con community forums and chat rooms.
 
 
 ### Purpose

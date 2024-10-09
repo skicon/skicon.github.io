@@ -1,6 +1,6 @@
 baseURL = 'https://www.skicon.org/'
 languageCode = 'en-us'
-title = 'Ski Con'
+title = 'SkiCon'
 theme = "hello-friend-ng"
 
 

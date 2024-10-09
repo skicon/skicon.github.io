@@ -4,10 +4,10 @@ menu:
   main:
     parent: "Conference"
     name: "CFP"
-    weight: 4
+    weight: 1
 ---
 
-# Submit
+## Submit
 
 To submit to our CFP simply fill this [form](https://forms.gle/YGGgjsHdv3KSGQ8K6)
 

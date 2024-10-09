@@ -4,7 +4,7 @@ menu:
   main:
     parent: "Conference"
     name: "Speakers"
-    weight: 30
+    weight: 40
 ---
 
 # TBD

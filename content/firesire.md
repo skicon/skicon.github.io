@@ -4,7 +4,7 @@ menu:
   main:
     parent: "Conference"
     name: "Fireside Chats"
-    weight: 10
+    weight: 20
 ---
 
 # TBD

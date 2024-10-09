@@ -4,7 +4,7 @@ menu:
   main:
     parent: "About"
     name: "Team"
-    weight: 1
+    weight: 10
 ---
 
 ## Organizers

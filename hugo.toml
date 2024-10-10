@@ -7,6 +7,22 @@ theme = "hello-friend-ng"
 [params]
     backgroundImage = "img/SkiCon-bg.jpeg"
 
+[params.author]
+    name = "SkiCon"
+
+[params.footer]
+    trademark = 2024
+    rss = false
+    copyright = true
+    author = true
+
+
+    topText = []
+    bottomText = [
+      "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
+      "Made with &#10084; by <a href=\"https://x.com/scoubimtl\">Scoubi</a>"
+    ]
+
 [[menu.main]]
     identifier = "Conference"
     name       = "Conference"

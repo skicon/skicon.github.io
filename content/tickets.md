@@ -9,7 +9,7 @@ menu:
 
 ## Conference Tickets
 
-Tickets will be available soon (tm)
+Tickets are now on sale [here](https://skicon.tickit.ca/)
 
 ## Hotel Room Block
 

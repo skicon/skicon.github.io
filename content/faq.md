@@ -11,29 +11,27 @@ We aim to join the outdoors and winter sports with cybersecurity research. We di
 
 
 ## How do I buy ticket?
-Head to our [Tickets Page](/tickets) to buy the tickets you need.  
-Don't forget to buy your lift tickets and book your hotel through our room block (while it last!)
+TBD
 
 ## When Is SkiCon
 
 ### Fireside Chats
-Evening of February 21, 2025
+TBD
 
 
 ### Main Talks
-Evening of February 22, 2025
+TBD
 
 ### Ski/Snow 
-February 22 & 23, 2025 ~8am to ~4pm
+TBD
 
 
 ## Where do I go skiing/riding?
-
-[Wachusett Mountain](https://www.wachusett.com/) is our ski resort this year. Something we've learned from previous years is "we strongly implore if you need ski/snowboarding lessons, please take them before joining the larger group on the mountain". Your saftey is #1 in this world. We don't want to see you injured as well, winter sports require a bit of skill so make sure you're comfortable in your own skin. 
+TBD
 
 ## Where do I sleep and attend talks?
 
-All talks will be held at [Colonial Hotel](https://www.colonial-hotel.com/), this is also where we have a room block.
+TBD
 
 
 ## How do I join the slack channel?

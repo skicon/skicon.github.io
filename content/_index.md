@@ -1,2 +1,2 @@
 # SkiCon 
-# February 21st to 23rd 2025
+# See you in 2026!!

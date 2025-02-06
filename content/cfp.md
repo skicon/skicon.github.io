@@ -19,9 +19,7 @@ Strongest topics rise to the top, as it should always be. You got this!
 
 
 ### CFP Timeline
-- October 15h 2024 - Open Call
-- Decemebr 15th 2024 - DEADLINE
-- Janurary 15th 2025 - Announcments
+TBD
 
 ## Fireside Talks
 

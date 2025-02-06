@@ -9,7 +9,7 @@ menu:
 
 ## Conference Tickets
 
-Tickets are now on sale [here](https://skicon.tickit.ca/)
+TBD
 
 ## Hotel Room Block
 
